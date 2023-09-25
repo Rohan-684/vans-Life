@@ -162,6 +162,10 @@ footer {
 .about-hero-image {
     max-width: 100%;
 }
+.about-page-container {
+  display: flex;
+  flex-direction: column;
+}
 
 .about-page-content {
     padding-inline: 23px;
